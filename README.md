@@ -12,7 +12,7 @@
       Database development environment 
       The webserver production environment
        
-      The managed network had a VLAN ID of 0 with production environment as its name and the umanaged network with a VLAN ID 0f 101 with development environment         as is name
+      The managed network had a VLAN ID of 0 with production environment as its name and the umanaged network with a VLAN ID 0f 101 with development environment           as is name
       
 - All VMs were created with 1 VCPU and 4 GB RAM 
 - The db-dev servers were virtically scaled with VCPU 1GB increase and memory increament by 2 GB after the creation
